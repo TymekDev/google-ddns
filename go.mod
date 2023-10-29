@@ -1,4 +1,4 @@
-module git.sr.ht/~tymek/google-ddns
+module github.com/TymekDev/google-ddns-updater
 
 go 1.19
 
